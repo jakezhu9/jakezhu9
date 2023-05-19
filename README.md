@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😀 I'm Jake Zhu.
+😀 I'm Jake Zhu / Junxing Zhu.
 
 🙋‍♂️ I'm a college student from China.
 
