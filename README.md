@@ -9,4 +9,4 @@
 📫 Contact me at jakezhu9@gmail.com
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakezhu9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-three-beta-44.vercel.app/api?username=jakezhu9)](https://github.com/anuraghazra/github-readme-stats)
